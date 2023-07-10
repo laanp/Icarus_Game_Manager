@@ -1,7 +1,7 @@
-# Icarus_Game_Manager
-An Excel Workbook &amp; associated vba routines to manage various aspects of the game Icarus-First Cohort
+# Icarus Game Manager
+An Excel Workbook and associated vba routines to manage various aspects of the game Icarus-First Cohort
 
-# Program Description
+## Program Description
 
 Welcome to the Icarus Game Manager!
 
@@ -14,7 +14,7 @@ my vba coding skills.
 
 The Icarus Game Manager is a collection of utilities and worksheets that allow the following in the game:
 
-    - Icarus character information - Import, change, and export:
+   - Icarus character information - Import, change, and export:
         - Character name
         - Character Experience Points (XP) - level
         - Talents and Rank - Unlock/Lock any

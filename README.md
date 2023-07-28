@@ -1,5 +1,5 @@
 # Icarus Game Manager
-An Excel Workbook and associated vba routines to manage various aspects of the game: Icarus-First Cohort
+An Excel Workbook and associated vba routines to manage various aspects of the game Icarus-First Cohort
 
 ## Program Description
 
